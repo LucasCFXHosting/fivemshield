@@ -52,6 +52,15 @@ Une fois configuré, notre système :
 
 ### 3️⃣ **Assistance en Direct**
 Notre équipe est disponible 24/7 pour répondre à vos questions et résoudre rapidement les problèmes.
-
 https://discord.gg/fivemshield
+
+## 🤝 Contributions
+Nous sommes ouverts à vos idées et suggestions ! Si vous souhaitez contribuer :
+
+Forkez ce dépôt.
+Proposez vos changements via une pull request.
+Participez aux discussions pour améliorer notre service.
+
+📜 Licence
+Ce projet est sous licence MIT. Consultez le fichier pour plus de détails.
 
